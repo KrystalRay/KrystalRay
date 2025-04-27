@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrystalRay)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2015%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
