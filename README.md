@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrystalRay)](https://github.com/anuraghazra/github-readme-stats)
-My weekly development status
+### My weekly development status
 <script src="https://gist.github.com/KrystalRay/256a5e8b6d30167fdd103c043200ccaf.js"></script>
