@@ -15,5 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrystalRay)](https://github.com/anuraghazra/github-readme-stats)
-### ⏰ Weekly Coding Time
-![WakaTime Stats](https://gist.github.com/KrystalRay/c95f971fd12fa14d5de35ab7845742be/raw/waka-stats.json)
