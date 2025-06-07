@@ -16,20 +16,17 @@ Here are some ideas to get you started:
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrystalRay)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-44%20hrs%2020%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C++                      21 mins             ██████████░░░░░░░░░░░░░░░   38.59 % 
-Bash                     15 mins             ███████░░░░░░░░░░░░░░░░░░   26.75 % 
-Java                     10 mins             █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
-Markdown                 8 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-CMake                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Java                     1 hr 24 mins        ██████████████████████░░░   86.15 % 
+C++                      13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
 
 💻 Operating System: 
-Windows                  56 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 37 mins        █████████████████████████   100.00 % 
 ```
 
 
