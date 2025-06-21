@@ -22,11 +22,10 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Java                     11 mins             ██████████████░░░░░░░░░░░   56.14 % 
-C++                      8 mins              ███████████░░░░░░░░░░░░░░   43.86 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
