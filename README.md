@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Ke Lei, a senior undergraduate student at Xidian University, soon to pursue a graduate degree at ICT, UCAS, under the supervision of Prof. Lian Li. My research interests mainly lie in the intersection of software engineering and program analysis.
+I am Ke Lei, a student at ICT, UCAS, under the supervision of Prof. Lian Li. My research interests mainly lie in the intersection of software engineering and program analysis.
 <!--
 **KrystalRay/KrystalRay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
